@@ -51,7 +51,7 @@ export default {
             console.log(action)
             this.index++;
             if(this.index>=4){
-              this.$alert('<strong>你已经成功通关啦</strong><br/><i>以下是你得分点：</i><ul><li>将青龙放置到了召唤阵的正确位置</li><li>将白虎放置到了召唤阵的正确位置</li><li>将朱雀放置到了召唤阵的正确位置</li><li>将玄武放置到了召唤阵的正确位置</li><li>将麒麟放置到了召唤阵的正确位置</li><li>正确的将四个脏器放置到了神兽上</li><li>使用归脾汤治好了眩晕</li><li>使用实脾饮治好了水肿</li><li>使用黄土汤治好了便血</li><li>使用补中益气汤治好了腹胀</li></ul>', '最终结果', {
+              this.$alert('<strong>你已经成功通关啦</strong><br/><i>以下是你得分点：</i><ul><li>将青龙放置到了召唤阵的正确位置</li><li>将白虎放置到了召唤阵的正确位置</li><li>将朱雀放置到了召唤阵的正确位置</li><li>将玄武放置到了召唤阵的正确位置</li><li>将勾陈放置到了召唤阵的正确位置</li><li>正确的将四个脏器放置到了神兽上</li><li>使用归脾汤治好了眩晕</li><li>使用实脾饮治好了水肿</li><li>使用黄土汤治好了便血</li><li>使用补中益气汤治好了腹胀</li></ul>', '最终结果', {
                 dangerouslyUseHTMLString: true,
                 callback: action => {
                   console.log(action)
