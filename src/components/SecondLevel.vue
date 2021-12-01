@@ -93,7 +93,7 @@ export default {
 .el-container {
   width: 100%;
   height: 100%;
-  background: url("../../public/bgp/2.jpg") no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/pppotato/CDN@master/bgp/2.jpg") no-repeat;
   background-size:100% 100%;
   position:absolute;
   flex-direction: column;
@@ -154,13 +154,13 @@ export default {
 }
 @keyframes gif {
   0% {
-    background-image: url('../../public/animals/1981637885227_.pic_hd.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1981637885227_.pic_hd.jpg');
   }
   50% {
-    background-image: url('../../public/animals/1991637885227_.pic_hd.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1991637885227_.pic_hd.jpg');
   }
   100% {
-    background-image: url('../../public/animals/1981637885227_.pic_hd.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1981637885227_.pic_hd.jpg');
   }
 }
 
