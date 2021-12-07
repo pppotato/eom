@@ -1,7 +1,8 @@
 <template>
   <el-container>
     <div class="title">
-      <h1>请将属于脾藏象系统的脏器拖入方框中</h1>
+      <h1>第二关</h1>
+      <p>请将属于脾藏象系统的脏器拖入方框中</p>
     </div>
     <div class="problem">
       <draggable v-model="answers" animation="300" group="people" :filter="filter" class="choose" @add="add1">
@@ -98,6 +99,13 @@ export default {
   position:absolute;
   flex-direction: column;
   align-items: center;
+}
+.title{
+  text-align: center;
+  width: 70%;
+  line-height: 30px;
+  font-size: 20px;
+
 }
 .problem{
   display: flex;
