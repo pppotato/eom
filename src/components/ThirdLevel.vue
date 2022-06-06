@@ -81,7 +81,7 @@ export default {
 .el-container {
   width: 100%;
   height: 100%;
-  background: url("https://cdn.jsdelivr.net/gh/pppotato/CDN@master/bgp/2.jpg") no-repeat;
+  background: url("http://rd21tlsiq.hn-bkt.clouddn.com/2.jpg") no-repeat;
   background-size:100% 100%;
   position:absolute;
   flex-direction: column;
@@ -107,7 +107,7 @@ export default {
   height: 400px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-image: url("https://cdn.jsdelivr.net/gh/pppotato/CDN@master/container.jpg");
+  background-image: url("http://rd21tlsiq.hn-bkt.clouddn.com/container.jpg");
   display: flex;
   justify-content: space-around;
   align-items: center
@@ -117,18 +117,18 @@ export default {
   background-size: 100% 100%;
   width: 300px;
   height: 300px;
-  background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1991637885227_.pic_hd.jpg');
+  background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1991637885227_.pic_hd.jpg');
 }
 
 @keyframes gif {
   0% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1931637885222_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1931637885222_.pic_hd.jpg');
   }
   50% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1991637885227_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1991637885227_.pic_hd.jpg');
   }
   100% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1981637885227_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1981637885227_.pic_hd.jpg');
   }
 }
 </style>

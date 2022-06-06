@@ -28,7 +28,7 @@ export default {
 .el-container {
   width: 100%;
   height: 100%;
-  background-image: url("https://cdn.jsdelivr.net/gh/pppotato/CDN@master/bgp/1.jpg");
+  background-image: url("http://rd21tlsiq.hn-bkt.clouddn.com/1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

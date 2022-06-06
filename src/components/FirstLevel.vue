@@ -123,7 +123,7 @@ export default {
 .el-container {
   width: 100%;
   height: 100%;
-  background: url("https://cdn.jsdelivr.net/gh/pppotato/CDN@master/bgp/1.jpg") no-repeat;
+  background: url("http://rd21tlsiq.hn-bkt.clouddn.com/1.jpg") no-repeat;
   background-size:100% 100%;
   position:absolute;
   flex-direction: column;
@@ -173,7 +173,7 @@ export default {
   height: 80%;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-image: url("https://cdn.jsdelivr.net/gh/pppotato/CDN@master/7bc03801963015b7c101ca2481b0b3b7.png");
+  background-image: url("http://rd21tlsiq.hn-bkt.clouddn.com/7bc03801963015b7c101ca2481b0b3b7.png");
 }
 .animals{
   position: relative;
@@ -210,57 +210,57 @@ export default {
 }
 @keyframes kylinGif {
   0% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1981637885227_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1981637885227_.pic_hd.jpg');
   }
   50% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1991637885227_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1991637885227_.pic_hd.jpg');
   }
   100% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1981637885227_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1981637885227_.pic_hd.jpg');
   }
 }
 @keyframes tigerGif {
   0% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1661637856334_.pic_hd.png');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1661637856334_.pic_hd.png');
   }
   50% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1671637856335_.pic_hd.png');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1671637856335_.pic_hd.png');
   }
   100% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1661637856334_.pic_hd.png');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1661637856334_.pic_hd.png');
   }
 }
 @keyframes finchGif {
   0% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1921637885221_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1921637885221_.pic_hd.jpg');
   }
   50% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1931637885222_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1931637885222_.pic_hd.jpg');
   }
   100% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1921637885221_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1921637885221_.pic_hd.jpg');
   }
 }
 @keyframes dragonGif {
   0% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1941637885223_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1941637885223_.pic_hd.jpg');
   }
   50% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1951637885224_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1951637885224_.pic_hd.jpg');
   }
   100% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1941637885223_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1941637885223_.pic_hd.jpg');
   }
 }
 @keyframes turtleGif {
   0% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1961637885225_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1961637885225_.pic_hd.jpg');
   }
   50% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1971637885226_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1971637885226_.pic_hd.jpg');
   }
   100% {
-    background-image: url('https://cdn.jsdelivr.net/gh/pppotato/CDN@master/animals/1961637885225_.pic_hd.jpg');
+    background-image: url('http://rd21tlsiq.hn-bkt.clouddn.com/1961637885225_.pic_hd.jpg');
   }
 }
 </style>
